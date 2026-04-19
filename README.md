@@ -21,7 +21,7 @@ I specialize in high-performance languages and deep learning frameworks:
 ---
 
 ### 🏆 Featured Work
-* [cite_start]**Ancestry ML:** A published research paper and implementation focusing on genetic ancestry through Machine Learning[cite: 8].
+* [cite_start]**Ancestry ML:** A published research paper and implementation focusing on genetic ancestry through Machine Learning[cite: 8]. https://github.com/zephrox/ancestry-ml
 * **Federated Traffic Control:** (Coming Soon) Implementing decentralized learning for smarter cities.
 
 ---
