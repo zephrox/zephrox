@@ -5,8 +5,7 @@ I am passionate about solving real-world problems using Machine Learning and Art
 
 - 🔭 **Current Project:** Optimizing traffic flow through **Traffic Signal Control using Federated Learning**.
 - 🌱 **Learning & Research:** Deepening my knowledge in IoT integration and robotics.
-- 📜 **Published Work:** [Ancestry ML Paper](LINK_TO_YOUR_REPO_HERE)
-
+- 📜 **Published Work:** [Ancestry ML Paper](https://github.com/zephrox/ancestry-ml)
 ---
 
 ### 🛠 Tech Stack
@@ -21,13 +20,20 @@ I specialize in high-performance languages and deep learning frameworks:
 ---
 
 ### 🏆 Featured Work
-* [cite_start]**Ancestry ML:** A published research paper and implementation focusing on genetic ancestry through Machine Learning[cite: 8]. https://github.com/zephrox/ancestry-ml
+* **Ancestry ML:** A published research paper and implementation focusing on genetic ancestry through Machine Learning. [View Repository](https://github.com/zephrox/ancestry-ml)
 * **Federated Traffic Control:** (Coming Soon) Implementing decentralized learning for smarter cities.
 
 ---
 
 ### 📫 Connect with me
-[cite_start]Let's talk about AI, Robotics, or potential collaborations! 
+Let's talk about AI, Robotics, or potential collaborations! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjir-jm)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anjirjaman)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zephrox&show_icons=true&bg_color=1E1E1E&title_color=58A6FF&text_color=FFFFFF&icon_color=238636" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephrox&layout=compact&bg_color=1E1E1E&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" />
+</div>
