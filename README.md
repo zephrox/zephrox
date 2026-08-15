@@ -91,7 +91,6 @@ I am an AI/ML engineer and researcher passionate about **Computer Vision**, **De
 ### 🌟 Featured Projects
 
 #### 🤖 1. [CogniLink / hci-companion](https://github.com/zephrox) — *Affective Desktop Companion Robot*
-> **Research & Implementation:** *"A Two-Stage Temporal Filtering Framework for Robust Affective Expression in 3D-Printed Desktop Companions"* (ICCA 2026)
 - Designed a **Sense → Think → Act** cognitive pipeline using MediaPipe FaceMesh to track 468 3D facial landmarks and classify user affective states with a Random Forest model.
 - Implemented an asymmetrical temporal hysteresis filter (**"Sticky Focus"** + 85% supermajority vote buffer) that eliminates **90% of behavioral jitter** (blinks/sneezes).
 - Real-time posture interpolation streaming joint angles over serial to an Arduino Nano driving a 4/5-DOF physical robotic manipulator and WS2812B chromatic LED array.
@@ -145,21 +144,6 @@ I am an AI/ML engineer and researcher passionate about **Computer Vision**, **De
 3. K. B. Arko, **M. A. Jaman** et al., *"SoilSyncX: Low-Cost IoT Smart Irrigation with LSTM Drought Risk Classification,"* **IEEE QPAIN 2026**, Apr. 2026.
 4. **M. A. Jaman**, K. B. Arko et al., *"DisasterX: IoT Robotic Rover with ESP32-CAM for Real-Time Disaster Intervention,"* **IEEE CS Bangladesh Chapter**, Jul. 2025. **[First Author]**
 5. K. B. Arko, **M. A. Jaman** et al., *"IoT-Based Seismic Sensor Network for Earthquake Prediction,"* **IEEE CS Bangladesh Chapter**, Jul. 2025.
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zephrox&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephrox&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zephrox&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 <div align="center">
   <sub>Designed with ❤️ by Md. Anjir Jaman (@zephrox)</sub>
