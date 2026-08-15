@@ -1,0 +1,14 @@
+# Documents & Source Files
+*.pdf
+Anjir_Jaman_CV.pdf
+chakrify.md
+cognilik.md
+LandLinker.md
+nlp.md
+sohojlipi.md
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
