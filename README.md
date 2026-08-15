@@ -145,6 +145,21 @@ I am an AI/ML engineer and researcher passionate about **Computer Vision**, **De
 4. **M. A. Jaman**, K. B. Arko et al., *"DisasterX: IoT Robotic Rover with ESP32-CAM for Real-Time Disaster Intervention,"* **IEEE CS Bangladesh Chapter**, Jul. 2025. **[First Author]**
 5. K. B. Arko, **M. A. Jaman** et al., *"IoT-Based Seismic Sensor Network for Earthquake Prediction,"* **IEEE CS Bangladesh Chapter**, Jul. 2025.
 
+---
+
+### 📊 GitHub Analytics
+
 <div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zephrox&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zephrox&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zephrox&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+</div>
+
+---
   <sub>Designed with ❤️ by Md. Anjir Jaman (@zephrox)</sub>
 </div>
