@@ -3,7 +3,7 @@
 <img src="assets/ascii-portrait.png" alt="Md. Anjir Jaman - ASCII Art Portrait" width="380" />
 
 # Hi, I'm Md. Anjir Jaman 👋
-### AI/ML Engineer · Computer Vision · Embedded Robotics · NLP
+### AI/ML Engineer · Web Developer · Computer Vision · Embedded Robotics 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjir-jm)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>B.Sc. in Computer Science & Engineering (Information Systems)</b> @ <a href="https://www.aiub.edu">AIUB</a><br>
-  <b>Web Dev Intern</b> @ <b>Zenith Solutions Limited</b> @<a href=""https://zenithsolutionsltd.com/>
+  <b>Web Dev Intern</b> @ <a href="https://zenithsolutionsltd.com"><b>Zenith Solutions Limited</b>b</a> <br>
   <b>AI/ML Research Intern</b> @ <b>NEDAAS Lab</b> (Neural Engineering, Data Analytics & Applied Science)
 </p>
 
