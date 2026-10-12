@@ -398,6 +398,7 @@ I am an AI/ML engineer and researcher passionate about **Computer Vision**, **De
 - 🔬 **Current Research:** Facial Emotion Recognition with Anatomical Disentanglement & Contrastive Learning (Undergraduate Thesis).
 - 🤖 **Robotics & Edge AI:** Developing cognitive architectures and temporal hysteresis frameworks for physical robotic companions.
 - 💡 **AI for Good:** Building accessible NLP tools for dyslexic readers and LLM-assisted workflow automation.
+- 🌐 **Client Solutions:** Engineering high-performance web platforms and 3D interactive interfaces (e.g., [Greensoft](https://greensoftbd.com/)).
 - 📍 **Location:** Dhaka, Bangladesh
 
 ---
@@ -437,6 +438,7 @@ I am an AI/ML engineer and researcher passionate about **Computer Vision**, **De
       <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
       <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=googlecloud&logoColor=white" />
     </td>
   </tr>
@@ -481,7 +483,16 @@ I am an AI/ML engineer and researcher passionate about **Computer Vision**, **De
 
 ---
 
-#### 🎯 3. [Chakrify](https://github.com/zephrox) — *AI Resume Analysis & Job Matching Engine*
+#### 🌐 3. [Greensoft Solutions](https://greensoftbd.com/) — *Enterprise Web Platform & Cybersecurity Solutions*
+> *Client Project for Greensoft Solutions Limited*
+- Engineered the official corporate digital platform for **Greensoft Solutions Limited**, an enterprise IT consulting and cybersecurity firm serving major public sector institutions (Supreme Court of Bangladesh, ICT Division, Bangladesh Police, BPDB).
+- Developed an interactive 3D particle earth visualization using **Three.js** and **WebGL**, deferred via `requestIdleCallback` to preserve 60 FPS rendering and ensure zero main-thread blocking on initial load.
+- Implemented high-performance native **IntersectionObserver** scroll reveal animations, dual bento-grid layouts, animated statistics counters, an infinite partner/client marquee, and zero-request inline SVG sprites.
+- **Tech Stack:** `JavaScript (ES6+)` `Three.js` `WebGL` `HTML5 / CSS3` `IntersectionObserver API` `SVG Architecture`
+
+---
+
+#### 🎯 4. [Chakrify](https://github.com/zephrox) — *AI Resume Analysis & Job Matching Engine*
 - Full-stack career acceleration platform featuring automated CV parsing (PDF/DOCX) via Gemini AI.
 - Computes intelligent job-fit match scores (0–100) with granular skill-gap analysis and generates tailored, ATS-friendly cover letters in real time.
 - Integrated JWT authentication and user dashboard for bookmarking opportunities and tracking applications.
@@ -489,7 +500,7 @@ I am an AI/ML engineer and researcher passionate about **Computer Vision**, **De
 
 ---
 
-#### 🔍 4. [AI Content Detection: BERT vs. RoBERTa](https://github.com/zephrox) — *NLP Deep Learning Study*
+#### 🔍 5. [AI Content Detection: BERT vs. RoBERTa](https://github.com/zephrox) — *NLP Deep Learning Study*
 - Comparative fine-tuning and benchmarking study on transformer architectures for classifying AI-generated vs. human-written text.
 - Evaluated on the 6,000-sample balanced Human ChatGPT Comparison Corpus (**HC3**).
 - **RoBERTa** achieved superior performance with **99.50% Accuracy** and **99.48% F1-Score** (98.96% precision / 100% recall).
@@ -497,7 +508,7 @@ I am an AI/ML engineer and researcher passionate about **Computer Vision**, **De
 
 ---
 
-#### 🚨 5. [DisasterX](https://github.com/zephrox) — *IoT Robotic Rover for Disaster Intervention*
+#### 🚨 6. [DisasterX](https://github.com/zephrox) — *IoT Robotic Rover for Disaster Intervention*
 > *Published in IEEE CS Bangladesh Chapter Symposium 2025 [First Author]*
 - Designed and deployed an autonomous ESP32-CAM rover for real-time visual exploration and hazardous telemetry in disaster environments.
 - Low-latency wireless streaming and sensor acquisition pipeline for emergency situational awareness.
@@ -505,7 +516,7 @@ I am an AI/ML engineer and researcher passionate about **Computer Vision**, **De
 
 ---
 
-#### 🏠 6. [Land-Linker](https://github.com/zephrox) — *Real Estate Marketplace Platform*
+#### 🏠 7. [Land-Linker](https://github.com/zephrox) — *Real Estate Marketplace Platform*
 - Dynamic web portal for property transactions, listings, and client inquiries for lands, houses, and apartments.
 - **Tech Stack:** `PHP` `JavaScript` `CSS3` `MySQL`
 
