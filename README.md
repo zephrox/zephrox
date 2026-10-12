@@ -12,6 +12,7 @@
 
 <p align="center">
   <b>B.Sc. in Computer Science & Engineering (Information Systems)</b> @ <a href="https://www.aiub.edu">AIUB</a><br>
+  <b>Web Dev Intern</b> @ <b>Zenith Solutions Limited</b> @<a href=""https://zenithsolutionsltd.com/>
   <b>AI/ML Research Intern</b> @ <b>NEDAAS Lab</b> (Neural Engineering, Data Analytics & Applied Science)
 </p>
 
